@@ -1,0 +1,29 @@
+# 监听哪些组
+srcGroup:
+  -
+    name:
+    id:
+  -
+    name:
+    id:
+  -
+    name:
+    id:
+
+# 转发到哪些组
+dstGroup:
+  -
+    name:
+    id:
+  -
+    name:
+    id:
+
+# 需要监听的用户
+user:
+  -
+    name:
+    id:
+  -
+    name:
+    id:
